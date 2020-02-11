@@ -1,0 +1,167 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.sidebar{
+    width: 275px;
+    top: 0;
+    left:0;
+    height: 100vh;
+    background-color: #936c6c;
+   
+    position: fixed;
+}
+.sidebar li a{
+    text-decoration: none;
+    color:  lightgray;
+}
+
+.resim{
+padding-top: 100px;
+margin-left: 66px;
+
+}
+
+.resim img{
+    width: 150px;
+    border-radius: 70px;
+    margin-bottom: 20px;
+}
+
+
+ .liste ul li{
+    font-size: 17px;
+    text-align: center;
+    list-style: none;
+    margin-top: 21px;
+    
+    font-weight:500;
+font-family: 'Russo One', sans-serif;
+   letter-spacing: 1px;
+   color: #d1ccc0;
+}
+.fontc{
+    color: #A52A2A;
+}
+
+.content{
+    padding-left: 350px;
+    padding-top: 85px;
+    padding-right: 30px;
+    min-width: 700px;
+}
+
+.ad{
+    font-size: 70px;
+    font-family: 'Cabin', sans-serif; 
+    font-weight: bold;
+    float: left;
+    clear: both;
+    padding-right: 20px;
+}
+.soyad{
+    font-size: 70px;
+    font-family: 'Cabin', sans-serif; 
+    font-weight: bold;
+    color: #a65959;
+}
+.aciklama{
+    font-size: 20px;
+    font-family: 'Cabin', sans-serif; 
+    font-weight: normal;
+    color: #84817a;
+    padding-bottom: 5px;
+}
+.aciklama1{
+    font-size: 20px;
+    font-family: 'Cabin', sans-serif; 
+    font-weight: bold;
+    color: #a65959;
+    padding-bottom: 5px;
+}
+.aciklama1 a{
+    padding-left: 10px;
+    text-decoration: none;
+    color: #a65959;
+}
+
+p{
+    font-family: 'Varela Round', sans-serif;
+    font-size: 18px;
+    color: #aaa69d;
+    margin-right: 140px;
+}
+
+.baslik{
+    font-family: 'Varela Round', sans-serif;
+    font-size: 40px;
+    color: #4b4b4b;
+    font-weight: bold;
+}
+
+.altbaslik{
+    font-family: 'Varela Round', sans-serif;
+    font-size: 23px;
+    letter-spacing: -1px;
+    color: #4b4b4b;
+    font-weight: bold;
+    float: left;
+    clear: both;
+    padding-right: 110px;
+}
+
+.altbaslik1{
+    font-family: 'Varela Round', sans-serif;
+    font-size: 23px;
+    letter-spacing: -1px;
+    color: #4b4b4b;
+    font-weight: bold;
+    padding-right: 110px;
+}
+
+.tarih{
+    margin-right: 0;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 18px;
+    color: #a65959;
+}
+
+.aciklama1 a{
+    text-transform: lowercase;
+}
+h5{
+    color: white;
+}
+
+.listeyap img{
+    float: left;
+    clear: both;
+    width: 20px;
+}
+.ikon img{
+    padding-right: 15px;
+}
+
+.ikon1 img{
+width: 45px;
+
+}
+.blog{
+    padding-left: 300px;
+}
+.blog img{
+    width: 60px;
+}
+
+/*    font-family: 'Varela Round', sans-serif;
+font-family: 'Russo One', sans-serif;
+font-family: 'Cabin', sans-serif; 
+ font-family: 'Teko', sans-serif;
+#B38481  --ilk renk
+#E8DAEF -- eflatun  
+35495e leco
+#434e52 gri margin: 20px 60px; B6ACAC  #695F5F
+  */
